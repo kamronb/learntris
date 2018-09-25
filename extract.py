@@ -99,7 +99,7 @@ class TestReaderStateMachine:
     def on_end_test(self, line):
         pass
 
-    #-- main public interface ----------------------------------
+    #-- main public interface --------------------------------
 
     def extract_tests(self, path):
         """
